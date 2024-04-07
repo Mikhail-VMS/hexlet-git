@@ -1,0 +1,17 @@
+Git
+https://learngitbranching.js.org/?locale=ru_RU
+
+Bash
+https://stepik.org/lesson/786579/step/1?unit=789205
+https://habr.com/ru/companies/ruvds/articles/327530/
+https://selectel.ru/blog/tutorials/linux-bash-scripting-guide/?ysclid=lu2kygk3wq741473928
+
+Регулярные выражения
+https://regexr.com/%C2%A0
+
+C
+https://stepik.org/lesson/64123/step/1?unit=41087
+https://metanit.com/
+https://www.youtube.com/playlist?list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz
+Онлайн компиллятор
+https://www.onlinegdb.com/online_c_compiler
